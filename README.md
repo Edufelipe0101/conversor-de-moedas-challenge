@@ -45,12 +45,19 @@ As taxas de câmbio são obtidas dinamicamente através da **ExchangeRate-API**:
 ## 📂 Estrutura do Projeto
 
 src/
-└── br/com/alura/conversor/
+└── br/
+└── com/
+└── alura/
+└── conversor/
 ├── Main.java
-├── api/ExchangeRateClient.java
-├── model/ExchangeRateResponse.java
-├── service/CurrencyConverter.java
-└── ui/Menu.java
+├── api/
+│ └── ExchangeRateClient.java
+├── model/
+│ └── ExchangeRateResponse.java
+├── service/
+│ └── CurrencyConverter.java
+└── ui/
+└── Menu.java
 
 ## 🔄 Lógica de Conversão
 
@@ -84,7 +91,7 @@ As taxas são sempre atualizadas, pois são obtidas diretamente da API.
 ## 👨‍💻 Autor
 
 **Eduardo Felipe**  
-Estudante e entusiasta de Tecnologia da Informação  
+Analista e Desenvolvedor de Sistemas
 Projeto desenvolvido para fins educacionais (Alura).
 
 ---
