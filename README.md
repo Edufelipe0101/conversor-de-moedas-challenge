@@ -44,20 +44,13 @@ As taxas de câmbio são obtidas dinamicamente através da **ExchangeRate-API**:
 
 ## 📂 Estrutura do Projeto
 
-src/    
-└── br/    
-    └── com/  
-        └── alura/   
-            └── conversor/   
-                ├── Main.java   
-                ├── api/   
-                │   └── ExchangeRateClient.java   
-                ├── model/   
-                │   └── ExchangeRateResponse.java   
-                ├── service/    
-                │   └── CurrencyConverter.java   
-                └── ui/   
-                    └── Menu.java   
+src/   
+└── br/com/alura/conversor/  
+├── Main.java  
+├── api/ExchangeRateClient.java  
+├── model/ExchangeRateResponse.java  
+├── service/CurrencyConverter.java  
+└── ui/Menu.java  
 
 ## 🔄 Lógica de Conversão
 
