@@ -30,7 +30,7 @@ Conversor de moedas desenvolvido em **Java 17** como desafio prático da **Alura
 
 As taxas de câmbio são obtidas dinamicamente através da **ExchangeRate-API**:
 
---
+
 
 ## 🛠️ Tecnologias Utilizadas
 
